@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="static/style.css" />
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-amber.css">
+    </head>
+    <body>
+         <div id='choose_filters' >
+        <form action="{{ url_for('handle_data') }}" method="post">
+              <select name="lbl_select">
+                {% for lbl in lbls %}
+                      Label : <option value="{{ lbl }}">{{ loop.index - 1 }} {{ lbl }}</option>
+                {% endfor %}  
+              </select>
+               <input type="submit" value="Submit">
+        </form>
+             
+             <a href="{{ url_for('index') }}">
+                 <img src="static/refresh_button.svg" style='width:20px;height:20px;'/>
+             </a>
+      </div>
+        <h1>{{ lbl_req }}</h1>
+        <div class="w3-third w3-section" style='width:100%'>
+            <div class="w3-card-4" style='width:100%'>
+                {% for img in imgFolder %}
+                <div class='img-container'>
+                    <img src="static/train/{{img}}.jpg" />
+                    <p>
+                    {% for tag in img_to_tags[img] %}
+                        <form action="{{ url_for('delete_lbl') }}" id="{{ lbls[tag] }}" method="post">
+                          <input type="hidden" name="lbl_del" value="{{ lbls[tag] }}">
+                           <input type="hidden" name="tag_del" value="{{ tag }}">
+                        </form>
+                        {{lbls[tag]}}|{{tag}}  <button type="submit" form="{{ lbls[tag] }}" value="Submit"><img src="static/cross.png" style='width:15px;height:15px;'/></button>
+                    {% endfor %}
+                    <p/>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </body>
+</html>

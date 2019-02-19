@@ -1,0 +1,230 @@
+,tag,label
+0,0.0,rien
+1,1.0,jsp
+2,2.0,robes/perfecto
+3,3.0,jogging/legging
+4,4.0,vetement sport
+5,5.0,pull
+6,6.0,mini short sport
+7,7.0,dos lacets ouvert
+8,8.0,baggy jeans
+9,9.0,lacets
+10,10.0,deux pieces/bikini
+11,11.0,vetements ailes doiseaux
+12,12.0,robes ete
+13,13.0,strass
+14,14.0,beige/marron-clair
+15,15.0,bikini
+16,16.0,peu
+17,17.0,noir
+18,18.0,top ample
+19,19.0,bleu
+20,20.0,moulant
+21,21.0,bodies
+22,22.0,bottes femme
+23,23.0,lacets dos
+24,24.0,leopard
+25,25.0,marron
+26,26.0,veste mousse/parka
+27,27.0,peu
+28,28.0,motifs militaire
+29,29.0,militaire p2
+30,30.0,ample poncho sans manches
+31,31.0,pantacourt
+32,32.0,gilet long
+33,33.0,pantalons cargo
+34,34.0,short cargo
+35,35.0,jsp
+36,36.0,robes
+37,37.0,pantalons
+38,38.0,chemises
+39,39.0,chaussure
+40,40.0,mini short
+41,41.0,bcp de chemises
+42,42.0,carreaux
+43,43.0,motif zip zag
+44,44.0,top
+45,45.0,bleu
+46,46.0,rien
+47,47.0,robe moulant court
+48,48.0,robe
+49,49.0,jsp
+50,50.0,rouge/jaune
+51,51.0,corsets
+52,52.0,deguisements
+53,53.0,jsp
+54,54.0,file en X vetements
+55,55.0,vetements broderies
+56,56.0,crop-top
+57,57.0,jsp
+58,58.0,orientale
+59,59.0,jeans
+60,60.0,jogging chill
+61,61.0,chemises
+62,62.0,robes
+63,63.0,fleurs
+64,64.0,jsp
+65,65.0,moumoute
+66,66.0,de tout
+67,67.0,deguisements
+68,68.0,pas assez
+69,69.0,gilets/peignoirs?
+70,70.0,motif florale/farfelu
+71,71.0,robes longues
+72,72.0,vetements bouts effiloches
+73,73.0,veste/wtf
+74,74.0,motif celeste
+75,75.0,motifs azteque/mosaique
+76,76.0,vetements carreaux
+77,77.0,vetements dores
+78,78.0,gris
+79,79.0,vert
+80,80.0,jsp
+81,81.0,saruel
+82,82.0,coeur
+83,83.0,pas assez
+84,84.0,motifs labyrinthe carreaux
+85,85.0,jsp
+86,86.0,pas assez
+87,87.0,transparent broderies
+88,88.0,sweat capuches
+89,89.0,collant
+90,90.0,vetements carreaux noir et blanc chelou
+91,91.0,veste
+92,92.0,jeans
+93,93.0,vetement haut velo
+94,94.0,robes longues pour femmes voilees
+95,95.0,combinaison
+96,96.0,kimono
+97,97.0,laine
+98,98.0,broderie
+99,99.0,cuir
+100,100.0,leggings
+101,101.0,leopards
+102,102.0,ample
+103,103.0,nuisette/lingerie
+104,104.0,pas assez
+105,105.0,jsp
+106,106.0,vetements homme
+107,107.0,pas assez
+108,108.0,rouge
+109,109.0,vetement femme enceinte
+110,110.0,jsp
+111,111.0,motif fancy
+112,112.0,soutien gorge sans bretelle
+113,113.0,jsp
+114,114.0,nuisette
+115,115.0,jsp
+116,116.0,epaules decoletees
+117,117.0,jsp
+118,118.0,voile
+119,119.0,soutien-gorge
+120,120.0,jsp
+121,121.0,pyjama animaux
+122,122.0,robe ceinturé?
+123,123.0,soutien-gorge adhesif
+124,124.0,vetement en latex
+125,125.0,couleur rosé-nude
+126,126.0,caban
+127,127.0,jupe crayon
+128,128.0,plis
+129,129.0,erreur image
+130,130.0,rayé
+131,131.0,rose plus flash
+132,132.0,carreaux?
+133,133.0,forme patineuse
+134,134.0,matiere polaire
+135,135.0,motif pois
+136,136.0,polo
+137,137.0,jsp
+138,138.0,motif?
+139,139.0,robe epaules visibles?
+140,140.0,manches bouffantes
+141,141.0,maille
+142,142.0,violet
+143,143.0,effet bibendum
+144,144.0,etroit dans le dos
+145,145.0,erreur image
+146,146.0,erreur image
+147,147.0,jp
+148,148.0,tons de rouge
+149,149.0,jsp
+150,150.0,detail brillant
+151,151.0,jsp
+152,152.0,peignoir
+153,153.0,jsp
+154,154.0,jsp
+155,155.0,volant
+156,156.0,erreur image
+157,157.0,erreur image
+158,158.0,bustier/corset ?
+159,159.0,strass
+160,160.0,voile transparent
+161,161.0,pas assez
+162,162.0,
+163,163.0,pas assez
+164,164.0,jsp
+165,165.0,ultra mini short
+166,166.0,epaule asymetrique
+167,167.0,matiere synthe brillante
+168,168.0,jsp
+169,169.0,pantalon jean femme
+170,170.0,jupe serré a la taille ?
+171,171.0,jsp
+172,172.0,chaussons bébé
+173,173.0,ecaille de serpent
+174,174.0,erreur image
+175,175.0,hot girls
+176,176.0,jsp
+177,177.0,brassiere
+178,178.0,jsp
+179,179.0,erreur image
+180,180.0,decollete coeur
+181,181.0,rayure
+182,182.0,simili daim
+183,183.0,blazer
+184,184.0,jsp
+185,185.0,jogging
+186,186.0,jsp
+187,187.0,dessous homme
+188,188.0,tunique de plage
+189,189.0,maillot de bain à bas large
+190,190.0,tee shirt a imprimé
+191,191.0,jsp
+192,192.0,brun
+193,193.0,debardeur
+194,194.0,tons de bleu clair
+195,195.0,pyjama moulant
+196,196.0,chaussettes montantes/collants mi-jambe
+197,197.0,string
+198,198.0,erreur image
+199,199.0,degradé
+200,200.0,trench
+201,201.0,pantalon
+202,202.0,bandeau
+203,203.0,voile
+204,204.0,jsp
+205,205.0,col cou
+206,206.0,bas jupe super large
+207,207.0,gris ?
+208,208.0,jsp
+209,209.0,2 couleurs ?
+210,210.0,col rond decolleté ?
+211,211.0,wtf
+212,212.0,boxer/culotte/string
+213,213.0,pb image
+214,214.0,col V ?
+215,215.0,erreur image
+216,216.0,velour
+217,217.0,sans manche
+218,218.0,jsp
+219,219.0,deguisement  matiere bizarre
+220,220.0,robe de mariée
+221,221.0,erreur image
+222,222.0,blanc ??
+223,223.0,erreur image
+224,224.0,veste mais pas que..
+225,225.0,kimono/gilet long
+226,226.0,tons de jaune
+227,227.0,legging sport
+228,228.0,motif zebre
