@@ -1,5 +1,5 @@
 # dataset-img-reader
 
-**An app in flask, to visualize images in a folder**
+**A flask(python) app, to visualize images in a folder**
 
 
